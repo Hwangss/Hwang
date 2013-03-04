@@ -1,4 +1,4 @@
 Hwang
 =====
 
-javascript
+My first js class.
